@@ -1,0 +1,31 @@
+2026-11-04 21:36:23,572 | INFO | Logging initialized
+2026-11-04 21:36:23,572 | INFO | ========== PIPELINE STARTED ==========
+2026-11-04 21:36:23,572 | INFO | Loading file: data/Dset.xlsx
+2026-11-04 21:36:26,113 | INFO | Dataset loaded successfully. Rows=205 Columns=13
+2026-11-04 21:36:26,115 | INFO | Removed columns: ['Tenure (Years)']
+2026-11-04 21:36:26,119 | INFO | Mapping applied to 'Department'. Unique values: 21 -> 8
+2026-11-04 21:36:26,119 | INFO | Starting datatype standardization
+2026-11-04 21:36:26,145 | INFO | Converted 'Employee ID' to string
+2026-11-04 21:36:26,146 | INFO | Converted 'Name' to string
+2026-11-04 21:36:26,147 | INFO | Converted 'Gender' to string
+2026-11-04 21:36:26,147 | INFO | Converted 'Department' to string
+2026-11-04 21:36:26,147 | INFO | Converted 'Job Title' to string
+2026-11-04 21:36:26,148 | INFO | Converted 'Reason for Leaving' to string
+2026-11-04 21:36:26,151 | INFO | Converted 'Age' to Int64
+2026-11-04 21:36:26,151 | INFO | Converted 'Performance Score' to Int64
+2026-11-04 21:36:26,152 | INFO | Converted 'Job Satisfaction' to Int64
+2026-11-04 21:36:26,152 | INFO | Converted 'Work-Life Balance' to Int64
+2026-11-04 21:36:26,153 | INFO | Converted 'Salary' to float64
+2026-11-04 21:36:26,155 | INFO | Converted 'Date of Hire' to datetime
+2026-11-04 21:36:26,160 | INFO | Removed 3 duplicate rows
+2026-11-04 21:36:26,160 | INFO | Starting quality checks
+2026-11-04 21:36:26,165 | WARNING | Column 'Date of Hire' contains 132 null values
+2026-11-04 21:36:26,165 | WARNING | Column 'Performance Score' contains 11 null values
+2026-11-04 21:36:26,165 | WARNING | Column 'Age' contains 10 null values
+2026-11-04 21:36:26,165 | WARNING | Column 'Job Satisfaction' contains 10 null values
+2026-11-04 21:36:26,165 | WARNING | Column 'Work-Life Balance' contains 10 null values
+2026-11-04 21:36:26,165 | WARNING | Column 'Reason for Leaving' contains 10 null values
+2026-11-04 21:36:26,165 | WARNING | Column 'Salary' contains 10 null values
+2026-11-04 21:36:26,165 | INFO | Quality checks completed
+2026-11-04 21:36:26,178 | INFO | Output saved: output/employee_cleaned.csv
+2026-11-04 21:36:26,179 | INFO | ========== PIPELINE COMPLETED SUCCESSFULLY ==========

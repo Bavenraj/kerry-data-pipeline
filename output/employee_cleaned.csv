@@ -1,0 +1,201 @@
+Employee ID,Name,Age,Gender,Department,Job Title,Date of Hire,Salary,Performance Score,Job Satisfaction,Work-Life Balance,Reason for Leaving
+1121,Alex Brown,42,Male,Customer Support,Executive,,73742.0,3,1,2,Still Employed
+1192,Alex Clark,24,Non-Binary,Marketing,Engineer,2017-02-09,47491.0,,6,4,Still Employed
+1054,Alex Harris,24,Female,Sales,Engineer,,72913.0,4,,2,Terminated
+1159,Alex Harris,48,Male,Finance,Engineer,,62890.0,3,2,2,
+1093,Alex Johnson,58,Female,Customer Support,Director,,82874.0,1,9,5,
+1156,Alex Johnson,27,Male,Marketing,Consultant,2017-12-05,87638.0,3,5,3,Resigned
+1067,Alex Lee,29,Female,Human Resource,Director,,74636.0,3,7,1,Retired
+1150,Alex Martin,43,Female,Customer Support,Analyst,2022-12-20,88874.0,3,7,3,Resigned
+1177,Alex Martin,53,Male,Information Technology,Coordinator,,103852.0,4,8,5,Still Employed
+1026,Alex Smith,58,Male,Information Technology,Executive,,67788.0,2,7,2,Still Employed
+1044,Alex Smith,53,Non-Binary,Customer Support,Consultant,2018-09-13,43430.0,2,7,3,Resigned
+1046,Alex Smith,41,Female,Sales,Executive,2017-08-28,50816.0,4,2,5,Still Employed
+1086,Alex Smith,,Female,Information Technology,Executive,2018-08-21,106262.0,4,10,2,Still Employed
+1138,Alex Smith,28,Female,Operations,Executive,,47314.0,5,5,3,
+1153,Alex Smith,46,Female,Operations,Manager,2016-09-03,108344.0,5,4,5,Retired
+1103,Alex Taylor,43,Male,Sales,Analyst,,73660.0,,6,,Still Employed
+1106,Alex Taylor,57,Female,Customer Support,Executive,,99720.0,5,,4,Terminated
+1004,Alex White,43,Male,Finance,Director,,75435.0,2,8,2,Still Employed
+1062,Alex White,23,Male,Human Resource,Coordinator,2020-11-08,85028.0,3,5,1,Resigned
+1076,Alex White,50,Female,Finance,Engineer,,74157.0,4,1,3,Still Employed
+1114,Alex White,52,Male,Marketing,Consultant,2013-12-31,69192.0,4,5,5,Still Employed
+1174,Alex White,54,Non-Binary,Sales,Coordinator,2015-02-17,52987.0,2,10,,Still Employed
+1118,Chris Anderson,56,Female,Human Resource,Analyst,,,4,5,5,Still Employed
+1017,Chris Brown,26,Male,Finance,Engineer,,47564.0,2,6,3,Terminated
+1057,Chris Brown,31,Male,Human Resource,Consultant,,75400.0,2,5,5,Still Employed
+1146,Chris Brown,59,Female,Customer Support,Executive,2020-11-04,42469.0,3,6,2,
+1047,Chris Clark,45,Female,Customer Support,Manager,2021-10-30,72733.0,4,7,1,Retired
+1094,Chris Clark,33,Male,Customer Support,Consultant,,47657.0,1,9,1,Still Employed
+1194,Chris Clark,,Female,Operations,Coordinator,2022-01-08,103888.0,3,5,3,Still Employed
+1151,Chris Harris,38,Male,Operations,Engineer,2017-03-01,89708.0,3,5,4,Still Employed
+1149,Chris Lee,22,Male,Marketing,Director,,103620.0,4,7,2,Terminated
+1011,Chris Smith,43,Female,Human Resource,Analyst,,80998.0,4,5,3,Retired
+1087,Chris Smith,57,Female,Customer Support,Analyst,,86600.0,3,2,4,Resigned
+1183,Chris Smith,57,Female,Sales,Coordinator,,82207.0,3,4,4,Still Employed
+1099,Chris Taylor,51,Female,Human Resource,Coordinator,2015-01-28,47906.0,,6,4,Still Employed
+1185,Chris White,40,Male,Human Resource,Director,,101246.0,2,6,4,Still Employed
+1195,Chris White,32,Female,Operations,Coordinator,,113609.0,2,6,2,Still Employed
+1069,David Anderson,47,Male,Sales,Manager,2022-09-18,64262.0,1,10,2,Retired
+1078,David Anderson,46,Female,Sales,Analyst,,,1,9,5,Still Employed
+1196,David Anderson,33,Female,Customer Support,Consultant,,49077.0,1,9,4,Still Employed
+1016,David Brown,51,Male,Sales,Consultant,,55317.0,3,,2,Terminated
+1120,David Brown,46,Male,Sales,Executive,2017-03-05,65559.0,4,9,1,Still Employed
+1129,David Brown,44,Female,Operations,Analyst,2017-06-28,81755.0,5,10,1,Still Employed
+1157,David Clark,52,Male,Operations,Director,,118249.0,3,6,2,Still Employed
+1050,David Harris,54,Male,Sales,Director,,64951.0,4,7,4,Retired
+1200,David Harris,29,Male,Customer Support,Coordinator,,,4,8,3,Still Employed
+1021,David Johnson,47,Female,Finance,Analyst,,114038.0,1,9,2,Still Employed
+1112,David Johnson,49,Male,Finance,Manager,2021-03-25,57602.0,4,7,2,Resigned
+1130,David Johnson,50,Male,Finance,Executive,,85648.0,3,2,1,Still Employed
+1102,David Lee,46,Female,Information Technology,Manager,2022-04-07,47287.0,2,3,5,Resigned
+1039,David Martin,37,Male,Human Resource,Executive,2018-12-16,73039.0,4,8,1,Still Employed
+1074,David Martin,25,Female,Operations,Executive,2013-05-10,81844.0,2,8,5,Still Employed
+1013,David Smith,,Male,Sales,Coordinator,,46640.0,2,1,4,Still Employed
+1108,David Smith,,Non-Binary,Sales,Manager,,57674.0,3,3,1,Still Employed
+1082,David Taylor,58,Female,Human Resource,Engineer,,54199.0,5,,4,Resigned
+1133,David Taylor,33,Female,Sales,Manager,,59129.0,4,5,4,Retired
+1019,David White,37,Non-Binary,Marketing,Executive,,119273.0,4,2,2,Terminated
+1049,David White,56,Male,Operations,Manager,,73933.0,4,4,3,Still Employed
+1072,David White,55,Female,Finance,Coordinator,,96979.0,3,1,4,Still Employed
+1064,Emily Anderson,44,Non-Binary,Marketing,Analyst,,40806.0,3,2,1,Still Employed
+1154,Emily Anderson,25,Male,Customer Support,Director,,89138.0,1,3,3,Still Employed
+1104,Emily Brown,34,Female,Operations,Consultant,2017-11-21,115758.0,4,2,3,Still Employed
+1128,Emily Brown,,Male,Operations,Engineer,2015-07-28,43020.0,2,8,1,Resigned
+1147,Emily Brown,40,Male,Marketing,Coordinator,2021-03-24,93947.0,4,2,5,Still Employed
+1187,Emily Brown,39,Non-Binary,Customer Support,Executive,2021-01-09,66660.0,5,6,4,Still Employed
+1181,Emily Clark,32,Female,Information Technology,Analyst,2013-09-07,87517.0,3,8,4,Still Employed
+1006,Emily Harris,24,Male,Human Resource,Consultant,,118945.0,1,9,2,Retired
+1034,Emily Harris,,Female,Marketing,Analyst,2020-04-11,91184.0,3,3,2,Still Employed
+1122,Emily Harris,57,Male,Finance,Director,,109669.0,4,1,5,Still Employed
+1136,Emily Harris,38,Female,Information Technology,Analyst,,70561.0,4,,2,Still Employed
+1027,Emily Johnson,44,Male,Operations,Coordinator,,88543.0,3,3,1,Still Employed
+1189,Emily Johnson,36,Female,Finance,Director,,53507.0,4,,4,Still Employed
+1031,Emily Lee,55,Male,Information Technology,Analyst,2014-03-18,56371.0,3,5,3,
+1186,Emily Lee,41,Female,Human Resource,Manager,2013-05-17,41435.0,3,7,4,Still Employed
+1075,Emily Martin,32,Non-Binary,Operations,Analyst,,104754.0,4,8,2,Terminated
+1116,Emily Smith,37,Female,Customer Support,Executive,2014-04-27,82520.0,4,10,4,Still Employed
+1125,Emily Smith,35,Female,Sales,Director,2017-07-23,110831.0,2,6,5,Resigned
+1172,Emily Taylor,49,Female,Information Technology,Coordinator,,71966.0,5,9,3,Still Employed
+1066,Emily White,47,Female,Finance,Executive,,69757.0,4,7,5,Resigned
+1096,Emily White,44,Female,Human Resource,Coordinator,2013-02-24,66685.0,2,9,1,Still Employed
+1037,Jane Anderson,26,Male,Operations,Analyst,,102187.0,2,5,5,Still Employed
+1144,Jane Anderson,50,Female,Operations,Consultant,2017-06-25,,1,4,,Still Employed
+1032,Jane Clark,52,Female,Operations,Manager,2018-09-08,85084.0,2,1,4,Terminated
+1033,Jane Clark,31,Male,Information Technology,Engineer,,69629.0,5,1,3,Resigned
+1068,Jane Clark,50,Female,Operations,Consultant,,88280.0,3,10,4,Still Employed
+1162,Jane Clark,40,Female,Finance,Coordinator,,82534.0,3,4,,Still Employed
+1163,Jane Clark,24,Female,Marketing,Consultant,,58787.0,,3,1,Still Employed
+1009,Jane Harris,37,Male,Marketing,Director,,63510.0,3,,4,Resigned
+1110,Jane Harris,30,Male,Finance,Engineer,2022-01-29,83642.0,4,8,,Retired
+1131,Jane Johnson,32,Female,Customer Support,Executive,,49516.0,2,9,3,Still Employed
+1175,Jane Johnson,59,Male,Customer Support,Director,2015-11-06,77311.0,5,7,1,Still Employed
+1029,Jane Lee,26,Female,Information Technology,Analyst,2018-08-14,109346.0,3,5,1,Terminated
+1090,Jane Lee,45,Female,Operations,Executive,2013-07-06,58297.0,3,,4,Still Employed
+1100,Jane Lee,38,Female,Customer Support,Consultant,,101413.0,2,4,4,Resigned
+1199,Jane Lee,37,Female,Marketing,Manager,2014-02-06,107889.0,3,10,5,Still Employed
+1169,Jane Martin,22,Female,Marketing,Executive,,115418.0,4,1,1,Resigned
+1051,Jane Smith,54,Male,Marketing,Analyst,,72413.0,2,4,3,Resigned
+1117,Jane Smith,26,Male,Operations,Engineer,,,3,7,2,Resigned
+1020,Jane Taylor,47,Male,Operations,Analyst,,114859.0,2,2,1,Still Employed
+1024,Jane Taylor,54,Female,Sales,Executive,,69430.0,2,10,3,Still Employed
+1058,John Anderson,50,Male,Information Technology,Analyst,2014-09-02,44494.0,2,1,1,Still Employed
+1135,John Anderson,31,Male,Sales,Coordinator,,51303.0,3,8,4,Still Employed
+1152,John Anderson,28,Female,Operations,Executive,2013-01-12,114553.0,3,9,1,Still Employed
+1056,John Brown,54,Male,Finance,Director,,97775.0,3,2,4,Still Employed
+1079,John Brown,,Male,Information Technology,Engineer,,101665.0,,4,,Resigned
+1139,John Brown,34,Male,Finance,Director,,59623.0,5,10,4,Still Employed
+1197,John Clark,31,Female,Information Technology,Consultant,,60953.0,2,10,3,Still Employed
+1124,John Harris,37,Female,Operations,Manager,,43972.0,1,3,1,Terminated
+1164,John Harris,34,Female,Marketing,Executive,,88845.0,3,8,,Still Employed
+1173,John Harris,46,Male,Sales,Director,,112545.0,2,7,3,Terminated
+1191,John Harris,22,Male,Marketing,Executive,,85539.0,4,7,5,Still Employed
+1089,John Johnson,53,Female,Finance,Consultant,,102483.0,3,6,2,Still Employed
+1040,John Martin,45,Male,Human Resource,Engineer,,98606.0,3,2,2,Still Employed
+1111,John Martin,28,Female,Customer Support,Analyst,2022-10-03,105160.0,4,6,4,Retired
+1165,John Martin,49,Female,Information Technology,Executive,,97932.0,5,10,1,Still Employed
+1073,John Smith,28,Non-Binary,Operations,Analyst,,78197.0,4,10,3,Still Employed
+1083,John Smith,30,Non-Binary,Operations,Executive,2013-01-29,,2,5,2,Resigned
+1092,John Smith,53,Male,Human Resource,Director,,66172.0,3,9,5,
+1145,John Smith,58,Male,Customer Support,Analyst,,109274.0,2,7,2,Terminated
+1148,John Smith,29,Male,Operations,Director,,62534.0,4,,3,Still Employed
+1063,John Taylor,56,Female,Sales,Analyst,,77573.0,1,6,3,Still Employed
+1134,John Taylor,30,Non-Binary,Marketing,Executive,2022-10-10,41591.0,3,10,2,Still Employed
+1008,Katie Anderson,,Male,Human Resource,Consultant,2014-08-16,60662.0,3,4,5,Terminated
+1055,Katie Brown,22,Female,Operations,Director,,80600.0,4,8,5,Still Employed
+1132,Katie Brown,39,Non-Binary,Human Resource,Engineer,2015-11-29,42396.0,4,3,3,Terminated
+1142,Katie Brown,23,Female,Sales,Executive,2020-01-16,73130.0,4,2,2,Retired
+1030,Katie Clark,57,Non-Binary,Marketing,Coordinator,,79974.0,4,5,5,Still Employed
+1158,Katie Clark,40,Female,Information Technology,Engineer,,42719.0,4,3,3,Resigned
+1077,Katie Harris,57,Female,Finance,Analyst,2016-10-18,117129.0,4,8,4,Still Employed
+1081,Katie Harris,31,Female,Marketing,Consultant,2016-10-26,95554.0,2,1,2,Still Employed
+1098,Katie Harris,56,Female,Human Resource,Coordinator,2020-06-04,68831.0,4,2,1,Still Employed
+1123,Katie Harris,44,Female,Marketing,Manager,,61754.0,1,1,2,Still Employed
+1127,Katie Harris,26,Male,Human Resource,Manager,2013-03-02,49903.0,4,3,3,Still Employed
+1143,Katie Harris,26,Female,Sales,Coordinator,2019-05-12,91756.0,1,5,4,Still Employed
+1010,Katie Johnson,58,Male,Customer Support,Executive,2021-11-04,,,5,2,Still Employed
+1141,Katie Lee,48,Male,Human Resource,Director,,105082.0,2,5,4,Still Employed
+1182,Katie Lee,58,Male,Operations,Executive,,69257.0,3,4,1,Still Employed
+1101,Katie Smith,41,Male,Customer Support,Director,2018-10-18,94028.0,2,6,3,Still Employed
+1180,Katie Smith,42,Male,Marketing,Manager,,116242.0,4,10,2,Still Employed
+1070,Katie Taylor,31,Female,Marketing,Engineer,,102211.0,1,2,4,Still Employed
+1095,Katie White,34,Male,Customer Support,Consultant,,65425.0,3,5,2,Still Employed
+1140,Katie White,30,Male,Information Technology,Executive,,107675.0,4,9,5,Still Employed
+1161,Katie White,47,Female,Finance,Consultant,2019-08-19,76509.0,5,5,2,Terminated
+1166,Katie White,41,Female,Finance,Manager,,73062.0,2,4,5,Still Employed
+1002,Laura Anderson,37,Male,Sales,Analyst,2018-03-06,114910.0,5,5,,Terminated
+1005,Laura Anderson,50,Female,Marketing,Coordinator,,97132.0,4,1,1,Still Employed
+1036,Laura Anderson,22,Male,Customer Support,Manager,,,2,4,5,Still Employed
+1053,Laura Anderson,33,Male,Information Technology,Director,,,5,10,2,Still Employed
+1184,Laura Anderson,56,Male,Information Technology,Engineer,,53281.0,3,4,5,Still Employed
+1007,Laura Brown,33,Male,Marketing,Analyst,,42983.0,1,6,,Still Employed
+1045,Laura Brown,48,Female,Finance,Manager,,52676.0,4,8,2,Resigned
+1038,Laura Clark,25,Male,Human Resource,Director,,52984.0,1,2,1,Terminated
+1170,Laura Clark,24,Female,Finance,Analyst,,106672.0,2,4,5,Still Employed
+1043,Laura Harris,,Female,Sales,Director,,,5,9,2,Terminated
+1160,Laura Johnson,31,Female,Customer Support,Coordinator,,117236.0,4,4,4,Still Employed
+1042,Laura Smith,23,Female,Customer Support,Manager,,90072.0,3,2,5,Still Employed
+1088,Laura Smith,39,Female,Sales,Coordinator,,116898.0,1,2,4,Resigned
+1097,Laura Smith,46,Male,Human Resource,Analyst,,64578.0,3,4,4,Still Employed
+1028,Laura Taylor,,Female,Customer Support,Executive,2019-12-17,53919.0,5,6,5,Still Employed
+1126,Laura Taylor,52,Male,Human Resource,Consultant,,81873.0,2,,2,Resigned
+1109,Laura White,33,Female,Sales,Consultant,,63874.0,4,1,1,Resigned
+1137,Laura White,59,Female,Information Technology,Analyst,2013-06-21,111719.0,,6,3,Resigned
+1018,Michael Anderson,33,Male,Customer Support,Consultant,,67345.0,4,4,4,Terminated
+1091,Michael Anderson,44,Male,Sales,Director,,70448.0,1,1,5,Still Employed
+1003,Michael Clark,26,Male,Marketing,Consultant,,92375.0,,4,5,Still Employed
+1048,Michael Clark,33,Male,Human Resource,Director,,42050.0,4,6,1,Still Employed
+1113,Michael Clark,35,Male,Information Technology,Consultant,,65931.0,3,9,1,
+1193,Michael Clark,37,Female,Marketing,Engineer,,90192.0,5,6,,Resigned
+1025,Michael Harris,51,Female,Information Technology,Director,,115532.0,5,1,4,Still Employed
+1188,Michael Harris,35,Female,Marketing,Manager,,45084.0,2,1,5,Still Employed
+1085,Michael Johnson,56,Female,Human Resource,Analyst,,112750.0,4,9,3,Still Employed
+1176,Michael Lee,27,Male,Customer Support,Engineer,2014-12-12,71575.0,2,7,5,Still Employed
+1035,Michael Martin,53,Female,Human Resource,Coordinator,,101916.0,4,10,1,Still Employed
+1041,Michael Martin,37,Female,Finance,Analyst,,50616.0,4,9,3,Still Employed
+1060,Michael Martin,33,Female,Finance,Engineer,2017-11-08,83001.0,3,8,3,
+1119,Michael Martin,33,Male,Marketing,Coordinator,,90106.0,3,3,4,Resigned
+1171,Michael Martin,34,Male,Sales,Executive,,74832.0,4,10,4,Still Employed
+1155,Michael Smith,57,Female,Marketing,Consultant,2013-12-05,94302.0,,4,2,Still Employed
+1001,Michael Taylor,22,Male,Information Technology,Manager,,106150.0,5,1,2,Terminated
+1015,Michael Taylor,26,Female,Operations,Manager,,94620.0,3,8,1,Still Employed
+1107,Michael Taylor,33,Female,Finance,Manager,,74701.0,1,7,4,
+1052,Michael White,58,Male,Marketing,Director,,74801.0,1,2,4,Resigned
+1065,Michael White,38,Male,Operations,Coordinator,2017-09-05,96638.0,2,1,4,Still Employed
+1023,Sophia Anderson,57,Male,Human Resource,Consultant,,106081.0,,4,1,Still Employed
+1014,Sophia Brown,49,Male,Sales,Coordinator,,84547.0,5,1,2,Still Employed
+1105,Sophia Brown,40,Male,Finance,Director,,100504.0,1,2,5,Still Employed
+1168,Sophia Brown,29,Male,Operations,Manager,2016-07-15,100461.0,4,2,4,Terminated
+1190,Sophia Brown,52,Non-Binary,Marketing,Executive,,112595.0,3,10,2,Still Employed
+1061,Sophia Clark,52,Female,Finance,Consultant,,107364.0,2,6,1,Resigned
+1179,Sophia Clark,37,Female,Finance,Manager,,110981.0,2,10,5,Terminated
+1080,Sophia Harris,57,Female,Sales,Consultant,,67376.0,2,1,3,
+1012,Sophia Lee,50,Male,Information Technology,Consultant,2018-10-08,96846.0,3,5,4,Terminated
+1178,Sophia Lee,42,Female,Sales,Engineer,,41007.0,3,1,2,Retired
+1022,Sophia Martin,42,Non-Binary,Finance,Executive,2016-07-28,92393.0,4,5,5,Still Employed
+1115,Sophia Martin,40,Female,Customer Support,Director,,86542.0,1,1,4,Still Employed
+1198,Sophia Smith,53,Female,Human Resource,Analyst,2021-05-01,116919.0,3,9,3,Still Employed
+1084,Sophia Taylor,45,Male,Information Technology,Coordinator,2013-05-29,113781.0,3,5,1,Still Employed
+1059,Sophia White,34,Female,Marketing,Executive,,114691.0,4,7,4,Still Employed
+1071,Sophia White,47,Female,Sales,Manager,,94842.0,3,2,5,Still Employed
+1167,Sophia White,49,Male,Finance,Executive,2016-01-18,115713.0,4,2,1,Resigned
